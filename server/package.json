@@ -12,6 +12,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "jest":{
+    "testEnvironment":"node"
+  },
   "dependencies": {
     "csv-parse": "^5.0.4",
     "express": "^4.17.2",
